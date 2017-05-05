@@ -1,0 +1,13 @@
+d:\Александр\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.exe.config
+d:\Александр\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\obj\Debug\Neural Network.csprojResolveAssemblyReference.cache
+d:\Александр\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.exe
+d:\Александр\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.pdb
+d:\Александр\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\bin\Debug\FANNCSharp.dll
+d:\Александр\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\obj\Debug\Neural Network.exe
+d:\Александр\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\obj\Debug\Neural Network.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.exe.config
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.exe
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\obj\Debug\Neural Network.exe
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\obj\Debug\Neural Network.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Neural Network\Neural Network\obj\Debug\Neural Network.csprojResolveAssemblyReference.cache
